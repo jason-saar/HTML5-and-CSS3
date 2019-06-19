@@ -1,0 +1,5 @@
+table:hover {
+    background-color: rebeccapurple;
+    color: seagreen;
+    border: 2px dotted black;
+}
