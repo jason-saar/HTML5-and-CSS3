@@ -1,0 +1,19 @@
+A website about funny cat pictures, jokes, and funny cat videos
+
+Title: CatsRFunny
+Body:
+	Nav Menu
+	
+	Funny image section
+I	Image
+	Text describing funny images
+
+	Cat joke section
+
+	Funny video section
+	Text describing funny videos
+
+	Contact Form to signup for daily cat joke
+
+	Footer containing random blockquote for lols
+
